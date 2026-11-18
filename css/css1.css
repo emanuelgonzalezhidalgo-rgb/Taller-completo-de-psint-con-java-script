@@ -1,0 +1,43 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* eL altristico de invoca ppor su nombre
+p {
+    color: #FF0000;
+}
+/* las etiquetas de se invocan por su nombre */
+
+
+DIV {
+
+    border: 8px solid #0000FF;
+}
+
+/* las clases afectan a los elementos que contengan las misma clase */
+.casa {
+    border: 8px solid #eeff00;
+    background-color: #00ff00;
+}
+
+.clase-parrafo {
+    color:aliceblue
+}
+
+/* lo IDs afectan a elementos especificos por si ID*/
+#fotografia {
+    border: 8px solid #ff00ff;
+    width: 300PX;
+}
+
+#camara {
+    border: 8px solid #0004ff;
+    width: 300PX;
+}
+
+#camara2 {
+    border: 8px solid #ff0000;
+    width: 300PX;
+}
